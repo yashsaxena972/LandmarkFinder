@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LandmarkFinder</string>
+    <string name="find_button_text">Find Location</string>
+    <string name="lat_hint">Enter latitude</string>
+    <string name="long_hint">Enter longitude</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_api">AIzaSyCBIkxxu3SJDzR_J0DZUIrVLUmEGhC1hKo</string>
+    <string name="google_places_key">AIzaSyBJ958IVMMmNr8OAp1QDWrkPCZGv3hv5Bs</string>
+    <string name="heatmap_text">The Heatmap above indicates the intensity of selected landmark within 1 Km distance from the Location</string>
+</resources>
